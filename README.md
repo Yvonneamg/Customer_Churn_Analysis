@@ -23,29 +23,25 @@ The dataset contains customer information (e.g., tenure, contract type, monthly 
 3. **Dashboard**:
    
      
-## Key findings
-- Customers with shorter tenure and month-to-month contracts are more likely to churn.
-
-
 ## Files
-- `churn_analysis.py`: Python script for EDA and modeling.
-- `processed_churn_data.csv`: Cleaned dataset for Power BI.
+- `Customer_Churn_Analysis.ipynb`: Python script for EDA and modeling.
+- `Customer_Churn_Analysis.html`: html file for EDA and modeling.
+- `processed_Churn_Data.csv`: Cleaned dataset for Power BI.
 - `churn_distribution.png`: Churn count visualization.
 - `tenure_vs_churn.png`: Tenure vs. churn box plot.
 - `correlation_heatmap.png`: Correlation heatmap.
-- `dashboard1.png`: Power BI dashboard screenshot.
--
+  
 
 ## How to Run
 1. **Python Script**:
    - Install Python and required libraries: `pip install pandas seaborn matplotlib scikit-learn`.
    - Download the dataset from Kaggle and place it in the project folder.
-   - Run `Customer_churn_analysis.ipynb`.
+   - Run `Customer_Churn_Analysis.ipynb`.
 
 2. **Power BI Dashboard**:
   
 
-## Results
+## KEY FINDINGS
 - **EDA Insights**:
   - ~26% of customers churned.
   - Short tenure and month-to-month contracts are strong churn drivers.
@@ -62,6 +58,3 @@ The dataset contains customer information (e.g., tenure, contract type, monthly 
 - Experiment with advanced models (e.g., Random Forest, XGBoost).
 - Add more interactive filters to the Power BI dashboard.
 - Analyze additional features like customer support interactions.
-
-## Contact
-Feel free to reach out via [Your Email] or [Your LinkedIn] for questions or collaboration.
