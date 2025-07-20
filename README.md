@@ -48,11 +48,11 @@ The dataset contains customer information (e.g., tenure, contract type, monthly 
 - **Model Performance**: Logistic regression achieved ~81.55% accuracy.
 - **Dashboard**: 
 
-## Screenshots
-![Churn Distribution](churn_distribution.png)
-![Tenure vs Churn](tenure_vs_churn.png)
-![Correlation Heatmap](correlation_heatmap.png)
-![Power BI Dashboard](dashboard1.png)
+## Visualizations
+- [Churn Distribution](churn_distribution.png)
+- [Tenure vs Churn](tenure_vs_churn.png)
+- [Correlation Heatmap](correlation_heatmap.png)
+- [Power BI Dashboard](dashboard1.png)
 
 ## Future Improvements
 - Experiment with advanced models (e.g., Random Forest, XGBoost).
