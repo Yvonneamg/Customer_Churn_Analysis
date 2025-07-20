@@ -24,9 +24,9 @@ The dataset contains customer information (e.g., tenure, contract type, monthly 
    
      
 ## Files
-- `Customer_Churn_Analysis.ipynb`: Python script for EDA and modeling.
-- `Customer_Churn_Analysis.html`: html file for EDA and modeling.
-- `processed_Churn_Data.csv`: Cleaned dataset for Power BI.
+- `Customer_Churn_Analysis.ipynb`: Python script for EDA and modeling.[
+- `Customer_Churn_Analysis.html`: html file for EDA and modeling.[HTML](Customer_Churn_Analysis.html)
+- `processed_Churn_Data.csv`: Cleaned dataset for Power BI.[CSV](processed_Churn_Data.csv)
 - `churn_distribution.png`: Churn count visualization.
 - `tenure_vs_churn.png`: Tenure vs. churn box plot.
 - `correlation_heatmap.png`: Correlation heatmap.
@@ -46,7 +46,7 @@ The dataset contains customer information (e.g., tenure, contract type, monthly 
   - ~26% of customers churned.
   - Short tenure and month-to-month contracts are strong churn drivers.
 - **Model Performance**: Logistic regression achieved ~81.55% accuracy.
-- **Dashboard**: 
+- **Dashboard**:
 
 ## Visualizations
 - [Churn Distribution](Visualizations/churn_distribution.png)
