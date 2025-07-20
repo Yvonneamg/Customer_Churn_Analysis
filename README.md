@@ -50,7 +50,7 @@ The dataset contains customer information (e.g., tenure, contract type, monthly 
 
 ## Visualizations
 - [Churn Distribution](Visualizations/churn_distribution.png)
-- [Tenure vs Churn](tenure_vs_churn.png)
+- [Tenure vs Churn](Visualization/tenure_vs_churn.png)
 - [Correlation Heatmap](Visualizations/Correlation_heatmap.png)
 - [Power BI Dashboard]()
 
