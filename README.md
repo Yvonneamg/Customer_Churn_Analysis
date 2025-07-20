@@ -24,7 +24,7 @@ The dataset contains customer information (e.g., tenure, contract type, monthly 
    
      
 ## Files
-- `Customer_Churn_Analysis.ipynb`: Python script for EDA and modeling.[
+- `Customer_Churn_Analysis.ipynb`: Python script for EDA and modeling.[IPYNB](Customer_Churn_Analysis.ipynb)
 - `Customer_Churn_Analysis.html`: html file for EDA and modeling.[HTML](Customer_Churn_Analysis.html)
 - `processed_Churn_Data.csv`: Cleaned dataset for Power BI.[CSV](processed_Churn_Data.csv)
 - `churn_distribution.png`: Churn count visualization.
