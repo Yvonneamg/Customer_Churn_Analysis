@@ -21,8 +21,8 @@ The dataset contains customer information (e.g., tenure, contract type, monthly 
    - Achieved an accuracy of approximately 81.55% (see script output).
 
 3. **Dashboard**:
-   
-     
+   - Created a Power BI dashboard showing churn rate, gender distribution, tenure, and contract type.
+      
 ## Files
 - `Customer_Churn_Analysis.ipynb`: Python script for EDA and modeling.[IPYNB](Customer_Churn_Analysis.ipynb)
 - `Customer_Churn_Analysis.html`: html file for EDA and modeling.[HTML](Customer_Churn_Analysis.html)
@@ -31,7 +31,6 @@ The dataset contains customer information (e.g., tenure, contract type, monthly 
 - `tenure_vs_churn.png`: Tenure vs. churn box plot.
 - `correlation_heatmap.png`: Correlation heatmap.
   
-
 ## How to Run
 1. **Python Script**:
    - Install Python and required libraries: `pip install pandas seaborn matplotlib scikit-learn`.
@@ -39,14 +38,15 @@ The dataset contains customer information (e.g., tenure, contract type, monthly 
    - Run `Customer_Churn_Analysis.ipynb`.
 
 2. **Power BI Dashboard**:
+- Open `processed_churn_data.csv` in Power BI Desktop.
+- Recreate visuals 
   
-
 ## KEY FINDINGS
 - **EDA Insights**:
   - ~26% of customers churned.
   - Short tenure and month-to-month contracts are strong churn drivers.
 - **Model Performance**: Logistic regression achieved ~81.55% accuracy.
-- **Dashboard**:
+- **Dashboard**:Interactive visuals highlight churn patterns and demographics
 
 ## Visualizations
 - [Churn Distribution](Visualizations/churn_distribution.png)
