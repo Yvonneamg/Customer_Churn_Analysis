@@ -6,6 +6,7 @@ This project analyzes customer churn for a telecommunications company using the 
 ## Tools Used
 - **Python**: Pandas for data manipulation, Seaborn/Matplotlib for visualization, Scikit-learn for logistic regression.
 - **Power BI**: Interactive dashboard for churn insights.
+- **Tableau** : Similar to Power BI to provide visualizations.
 - **GitHub**: Documentation and code sharing.
 
 ## Dataset
@@ -39,7 +40,9 @@ The dataset contains customer information (e.g., tenure, contract type, monthly 
 
 2. **Power BI Dashboard**:
 - Open `processed_churn_data.csv` in Power BI Desktop.
-- Recreate visuals 
+- Recreate visuals
+  
+3. 
   
 ## KEY FINDINGS
 - **EDA Insights**:
