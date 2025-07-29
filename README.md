@@ -10,7 +10,7 @@ This project analyzes customer churn for a telecommunications company using the 
 - **GitHub**: Documentation and code sharing.
 
 ## Dataset
-The dataset contains customer information (e.g., tenure, contract type, monthly charges) and a target variable `Churn` (Yes/No). It has 7,043 rows and 21 columns.
+The dataset contains customer information (e.g., tenure, contract type, monthly charges) and a target variable `Churn` (Yes/No). It has `7,043` rows and `21` columns.
 
 ## Methodology
 1. **Exploratory Data Analysis (EDA)**:
@@ -42,7 +42,8 @@ The dataset contains customer information (e.g., tenure, contract type, monthly 
 - Open `processed_churn_data.csv` in Power BI Desktop.
 - Recreate visuals
   
-3. 
+3. **Tableau Dashboard**:
+- View the dashboard [here](https://public.tableau.com/authoring/Customer_Churn_Analysis_Dashboard_17530994121860/Dashboard1#1)
   
 ## KEY FINDINGS
 - **EDA Insights**:
@@ -56,6 +57,7 @@ The dataset contains customer information (e.g., tenure, contract type, monthly 
 - [Tenure vs Churn](Visualizations/tenure_vs_churn.png)
 - [Correlation Heatmap](Visualizations/Correlation_heatmap.png)
 - [Power BI Dashboard](Visualizations/Customer_Analysis_Dashboard_PowerBI.png)
+- [Tableau Dashboard]()
 
 ## Future Improvements
 - Experiment with advanced models (e.g., Random Forest, XGBoost).
