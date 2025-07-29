@@ -57,7 +57,7 @@ The dataset contains customer information (e.g., tenure, contract type, monthly 
 - [Tenure vs Churn](Visualizations/tenure_vs_churn.png)
 - [Correlation Heatmap](Visualizations/Correlation_heatmap.png)
 - [Power BI Dashboard](Visualizations/Customer_Analysis_Dashboard_PowerBI.png)
-- [Tableau Dashboard]()
+- [Tableau Dashboard](Customer%20Churn%20Analysis%20Dashboard.png)
 
 ## Future Improvements
 - Experiment with advanced models (e.g., Random Forest, XGBoost).
